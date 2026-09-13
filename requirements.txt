@@ -1,0 +1,5 @@
+opencv-python-headless
+numpy
+scipy
+pillow
+# torch/transformers only needed if you wire in a real VLM locally instead of an API call
